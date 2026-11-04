@@ -2,11 +2,13 @@
 
 Este registro no cuenta. Sirve para ver dónde vais solos y dónde os apoyáis. Si no habéis usado IA en una tarea, dejad el nivel en 0: también es un dato útil.
 
-**Grupo:** (nombres)
+**Grupo:** Grupo 7: Marina Martin, Anisia Gil García, Antonio Diz Huarte, Carolina Bassi
 
 **Herramientas usadas:** (ChatGPT, Claude, Gemini, Copilot, autocompletado de VS Code... o ninguna)
 
 > El repositorio es público: no pongáis datos personales ni contraseñas en los prompts que copiéis aquí.
+en un ejercicio el juego de pruebas del profesor me da
+FALLA checking_account es bool esperado: <class 'bool'>
 
 ## Resumen por tarea
 
