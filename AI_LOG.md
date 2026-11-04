@@ -6,9 +6,11 @@ Este registro no cuenta. Sirve para ver dónde vais solos y dónde os apoyáis. 
 
 **Herramientas usadas:** (ChatGPT, Claude, Gemini, Copilot, autocompletado de VS Code... o ninguna)
 
-> El repositorio es público: no pongáis datos personales ni contraseñas en los prompts que copiéis aquí.
-en un ejercicio el juego de pruebas del profesor me da
-FALLA checking_account es bool esperado: <class 'bool'>
+> El repositorio es público: no pongáis datos personales ni contraseñas en los prompts que copiéis aquí.  
+
+- en un ejercicio el juego de pruebas del profesor me da FALLA checking_account es bool esperado: <class 'bool'>  
+
+- FALLA saldo negativo: ValueError esperado: <class 'ValueError'> obtenido: <__main__.User object at 0x000002483D6A4C30>
 
 ## Resumen por tarea
 
